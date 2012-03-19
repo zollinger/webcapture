@@ -12,8 +12,9 @@
  *
  */
 
-#include <map.h>
-#include <vector.h>
+using namespace std;
+#include <map>
+#include <vector>
 #include <string>
 
 /* Use this type to determine what we're storing, naming
